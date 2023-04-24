@@ -1,2 +1,2 @@
 # JicanaGPT
-Starts somewhere
+Started somewhere
